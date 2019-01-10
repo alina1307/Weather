@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">WeatherApp</string>
-    <string name="start">Start service</string>
-    <string name="stop">Stop service</string>
-</resources>
-
-
